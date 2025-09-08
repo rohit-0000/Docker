@@ -5,4 +5,4 @@ CMD ["java","-jar","DockerLearn-0.0.1-SNAPSHOT.jar"]
 EXPOSE 9595
 
 
-#docker run --name SpringBootProject -d -it -p 9595:9595  myspringbootimage 
+#docker run --name SpringBootProject -d -it -p 9595:9595  myspringbootimage
